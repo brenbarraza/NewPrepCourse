@@ -1,2 +1,1 @@
-# NewPrepCourse
-repositorio de prueba
+Es un proyeto de prueba
